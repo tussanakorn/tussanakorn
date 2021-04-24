@@ -20,10 +20,11 @@ Here are some ideas to get you started:
 
 ⚡ What I'm interested in : 
 
-- Computer vision
-- Natural Language Processing
 - Data Engineering
 - Chatbot
+- Computer vision
+- Natural Language Processing
+
 
 
 
