@@ -23,3 +23,33 @@ Here are some ideas to get you started:
 - Natural Language Processing
 - Slightly interested in Data Engineering
 - Chatbot
+
+⚡ What I'm interested in : 
+
+- Computer vision
+- Natural Language Processing
+- Slightly interested in Data Engineering
+- Chatbot
+
+
+⚡ What I'm interested in : 
+
+- Computer vision
+- Natural Language Processing
+- Slightly interested in Data Engineering
+- Chatbot
+
+⚡ What I'm interested in : 
+
+- Computer vision
+- Natural Language Processing
+- Slightly interested in Data Engineering
+- Chatbot
+
+
+⚡ What I'm interested in : 
+
+- Computer vision
+- Natural Language Processing
+- Slightly interested in Data Engineering
+- Chatbot
