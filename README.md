@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I am a 2nd Health Data Science student Faculty of Medicine and Public health, PCCMS x Computer Engineering department, Faculty of Engineering, KMUTT
 <!--
 **tussanakorn/tussanakorn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
