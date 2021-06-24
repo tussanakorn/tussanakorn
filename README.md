@@ -20,12 +20,10 @@ Here are some ideas to get you started:
 
 ⚡ What I'm interested in : 
 
-- Data Science
 - Chatbot
 - Computer vision
 - Natural Language Processing
 - Healthcare
-
 
 
 
