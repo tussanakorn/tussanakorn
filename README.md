@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - Chatbot
 - Computer vision
 - Natural Language Processing
-- Healthcare
+- HealthTech
 
 
 
