@@ -1,4 +1,8 @@
-### Hi there 👋
+## Hi there 👋,  I am Tussanakorn Rattanaburee
+
+[![Linkedin Badge](https://img.shields.io/badge/-tussanakorn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tussanakorn/)](https://www.linkedin.com/in/tussanakorn/)
+[![Gmail Badge](https://img.shields.io/badge/-tussanakorn2000@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tussanakorn2000@gmail.com)](mailto:tussanakorn2000@gmail.com)
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/tussanakorn) 
 
 I am a 3rd Health Data Science student Faculty of Medicine and Public health, PCCMS 
 x Computer Engineering department, Faculty of Engineering, KMUTT
@@ -26,10 +30,7 @@ Here are some ideas to get you started:
 - HealthTech
 
 ## 📊 Stats
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tussanakorn&theme=vue)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tussanakorn&layout=compact&langs_count=7&hide=TSQL)](https://github.com/tussanakorn/github-readme-stats)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tussanakorn&theme=vue)
 
-<a href="https://github.com/tussanakorn">  
-  <img align="center" src="https://github-readme-stats.alexxxdev.vercel.app/api/top-langs/?username=tussanakorn&layout=compact&card_width=250&hide_border=true&theme=tokyonight" /
-</a>
