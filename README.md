@@ -25,6 +25,11 @@ Here are some ideas to get you started:
 - Natural Language Processing
 - HealthTech
 
+## 📊 Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tussanakorn&layout=compact&langs_count=7&hide=TSQL)](https://github.com/tussanakorn/github-readme-stats)
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tussanakorn&theme=vue)
 
-
+<a href="https://github.com/tussanakorn">  
+  <img align="center" src="https://github-readme-stats.alexxxdev.vercel.app/api/top-langs/?username=tussanakorn&layout=compact&card_width=250&hide_border=true&theme=tokyonight" /
+</a>
