@@ -34,4 +34,5 @@ Here are some ideas to get you started:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tussanakorn&theme=vue)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tussanakorn&layout=compact&langs_count=7&hide=TSQL)](https://github.com/tussanakorn/github-readme-stats)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tussanakorn&theme=buefy&show_icons=true)
 
