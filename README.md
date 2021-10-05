@@ -1,4 +1,4 @@
-## Hi there 👋,  I am Tussanakorn Rattanaburee
+## Hi there 👋,  I am Tussanakorn Rattanaburee <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=tussanakorn" alt="visitor" />
 
 [![Linkedin Badge](https://img.shields.io/badge/-tussanakorn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tussanakorn/)](https://www.linkedin.com/in/tussanakorn/)
 [![Gmail Badge](https://img.shields.io/badge/-tussanakorn2000@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tussanakorn2000@gmail.com)](mailto:tussanakorn2000@gmail.com)
