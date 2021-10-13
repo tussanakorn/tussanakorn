@@ -38,5 +38,5 @@ Here are some ideas to get you started:
 
 ## 📊 Stats
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tussanakorn&theme=vue)
-<a href="https://github.com/tussanakorn/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=tussanakorn&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> 
+
 <a href="https://github.com/tussanakorn/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tussanakorn&layout=compact&langs_count=7&theme=flag-india" /></a>
