@@ -32,9 +32,9 @@ Here are some ideas to get you started:
 
 - 🤖 Chatbot
 - 🏥 HealthTech
+- 👓 Big data, Data Engineer
 - 💻 Data Science, Machine Learning and AI
 - 🧬 Bioinformatics, Computational Biology
-- 👓 Computer vision, Natural Language Processing
 
 ## 📊 Stats
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tussanakorn&theme=vue)
