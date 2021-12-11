@@ -20,7 +20,7 @@ x Computer Engineering department, Faculty of Engineering, KMUTT
 - 🏥 HealthTech
 - 👓 Big data, Data Engineer
 - 💻 Machine Learning
-- ☁️ Microsoft Azure
+- ☁️ Cloud Computing
 
 ## 📊 Stats
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tussanakorn&theme=vue)
