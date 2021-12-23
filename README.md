@@ -8,7 +8,7 @@ print("Health data science student")
 
 [![Linkedin Badge](https://img.shields.io/badge/-tussanakorn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tussanakorn/)](https://www.linkedin.com/in/tussanakorn/)
 [![Gmail Badge](https://img.shields.io/badge/-tussanakorn2000@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tussanakorn2000@gmail.com)](mailto:tussanakorn2000@gmail.com)
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/tussanakorn) 
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/tussanakorn?tab=repositories) 
 
 I am a 3rd Health Data Science student at Princess Srisavangavadhana College of Medicine, Chulabhorn Royal Academy
 x Computer Engineering department, Faculty of Engineering, KMUTT
