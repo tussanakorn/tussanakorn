@@ -10,7 +10,7 @@ print("Health data science student")
 [![Gmail Badge](https://img.shields.io/badge/-tussanakorn2000@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tussanakorn2000@gmail.com)](mailto:tussanakorn2000@gmail.com)
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/tussanakorn?tab=repositories) 
 
-I am a 3rd Health Data Science student at Princess Srisavangavadhana College of Medicine, Chulabhorn Royal Academy
+I am a 3rd year student in Health Data Science at Princess Srisavangavadhana College of Medicine, Chulabhorn Royal Academy
 x Computer Engineering department, Faculty of Engineering, KMUTT
 
 
