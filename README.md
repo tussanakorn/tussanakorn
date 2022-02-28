@@ -1,8 +1,9 @@
-## Hi there 👋,  I am Tussanakorn                  
+<!-- ## Hi there 👋,  I am Tussanakorn                  
 
-
-<!-- <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=tussanakorn" alt="visitor"/>
  -->
+ <h1 align="center">Hi there, I'm Tussanakorn<img
+src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
+
 ```python
 print("I'm Film")
 print("Hello world!")
@@ -11,10 +12,14 @@ print("Health data science student")
 
 [![Linkedin Badge](https://img.shields.io/badge/-tussanakorn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tussanakorn/)](https://www.linkedin.com/in/tussanakorn/)
 [![Gmail Badge](https://img.shields.io/badge/-tussanakorn2000@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tussanakorn2000@gmail.com)](mailto:tussanakorn2000@gmail.com)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://tussanakorn.me/)
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/tussanakorn?tab=repositories) 
+<img src="https://visitor-badge.glitch.me/badge?page_id=tussanakorn" alt="visitor"/>
 
 I am a 3rd year student in `Health Data Science` at Princess Srisavangavadhana College of Medicine, Chulabhorn Royal Academy
 x Computer Engineering department, Faculty of Engineering, KMUTT
+
+<a href="#"><img align="right" src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="200 " height="200" /></a>
 
 
 ⚡ What I'm interested in : 
