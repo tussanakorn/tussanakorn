@@ -25,11 +25,11 @@ x Computer Engineering department, Faculty of Engineering, KMUTT
 
 ⚡ What I'm interested in : 
 
-- 🤖 `Chatbot`
-- 🏥 `HealthTech`
-- 👓 `Big data`, `Data Engineer`
+- ⚙ `Data Engineer`
 - 💻 `Machine Learning`
 - ☁️ `Cloud Computing`
+- 🤖 `Chatbot`
+- 🏥 `HealthTech`
 
 <h3 align="left">🌱 Languages and Tools:</h3>
 <p align="left">
