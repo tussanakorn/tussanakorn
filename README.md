@@ -13,7 +13,7 @@ print("Health data science student")
 [![Linkedin Badge](https://img.shields.io/badge/-tussanakorn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tussanakorn/)](https://www.linkedin.com/in/tussanakorn/)
 [![Gmail Badge](https://img.shields.io/badge/-tussanakorn2000@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tussanakorn2000@gmail.com)](mailto:tussanakorn2000@gmail.com)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://tussanakorn.me/)
-[![DEV Badge](https://img.shields.io/badge/-cusniwtt-0A0A0A?style=flat&logo=dev.to&logoColor=white)](https://www.cloudskillsboost.google/public_profiles/8c70814d-66c3-44df-8b7c-427a34535ec4)
+[![DEV Badge](https://img.shields.io/badge/-tussanakorn-0A0A0A?style=flat&logo=dev.to&logoColor=white)](https://www.cloudskillsboost.google/public_profiles/8c70814d-66c3-44df-8b7c-427a34535ec4)
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/tussanakorn?tab=repositories) 
 
 <!-- <img src="https://visitor-badge.glitch.me/badge?page_id=tussanakorn" alt="visitor"/>
