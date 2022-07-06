@@ -29,6 +29,7 @@ x Computer Engineering department, Faculty of Engineering, KMUTT
 - ⚙ `Data Engineer`
 - 💻 `Machine Learning`
 - ☁️ `Cloud Computing`
+- 🌎 `Geographic Information System `
 - 🤖 `Chatbot`
 - 🏥 `HealthTech`
 
