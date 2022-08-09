@@ -18,11 +18,12 @@ print("Health data science student")
 
 <!-- <img src="https://visitor-badge.glitch.me/badge?page_id=tussanakorn" alt="visitor"/>
  -->
-I am a 3rd year student in `Health Data Science` at Princess Srisavangavadhana College of Medicine, Chulabhorn Royal Academy
+I am a 4th year student in `Health Data Science` at Princess Srisavangavadhana College of Medicine, Chulabhorn Royal Academy
 x Computer Engineering department, Faculty of Engineering, KMUTT
 
 <a href="#"><img align="right" src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="200 " height="200" /></a>
 
+- 
 
 ⚡ What I'm interested in : 
 
