@@ -29,6 +29,13 @@ x Computer Engineering department, Faculty of Engineering, KMUTT
 - Jun 2022 - Jul 2022, Remote Internship (Health data scientist) at [Kanazawa University](http://mathphys.w3.kanazawa-u.ac.jp/e/index.html) 
 - Oct 2020 - Aug 2021, Data scientist intern at [Botnoi](https://botnoigroup.com/) in Bangkok, Thailand.
 
+
+ **Badges:**
+ 
+<img align="center" height="100" width="100" alt="" src="" />
+
+
+
 ⚡ **What I'm interested in:** 
 
 - ⚙ `Data Engineer`
