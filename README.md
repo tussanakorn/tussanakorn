@@ -23,9 +23,13 @@ x Computer Engineering department, Faculty of Engineering, KMUTT
 
 <a href="#"><img align="right" src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="200 " height="200" /></a>
 
+👨‍💻 **Work and Experiences**
 
+- Oct 2021 - Present, Data engineer part-time at [relearning.tech](https://github.com/thainhf) in Bangkok, Thailand.
+- Jun 2022 - Jul 2022, Remote Internship (Health data scientist) at [Kanazawa University](http://mathphys.w3.kanazawa-u.ac.jp/e/index.html) 
+- Oct 2020 - Aug 2021, Data scientist intern at [Botnoi](https://botnoigroup.com/) in Bangkok, Thailand.
 
-⚡ What I'm interested in : 
+⚡ **What I'm interested in:** 
 
 - ⚙ `Data Engineer`
 - 💻 `Machine Learning`
