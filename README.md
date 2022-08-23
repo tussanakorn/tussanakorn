@@ -32,10 +32,12 @@ x Computer Engineering department, Faculty of Engineering, KMUTT
 
  📛 **Badges:**
  
+<div>
 <img align="center" height="80" width="80" alt="" src="https://github.com/tussanakorn/tussanakorn/blob/main/images/azure-ai-fundamentals.png" />
-
-
-
+<img align="center" height="80" width="80" alt="" src="https://github.com/tussanakorn/tussanakorn/blob/main/images/AWS_ACF.png" />
+</div>
+<br>
+ 
 ⚡ **What I'm interested in:** 
 
 - ⚙ `Data Engineer`
