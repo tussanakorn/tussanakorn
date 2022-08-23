@@ -30,9 +30,9 @@ x Computer Engineering department, Faculty of Engineering, KMUTT
 - Oct 2020 - Aug 2021, Data scientist intern at [Botnoi](https://botnoigroup.com/) in Bangkok, Thailand.
 
 
- **Badges:**
+ 📛 **Badges:**
  
-<img align="center" height="100" width="100" alt="" src="" />
+<img align="center" height="80" width="80" alt="" src="https://github.com/tussanakorn/tussanakorn/blob/main/images/azure-ai-fundamentals.png" />
 
 
 
