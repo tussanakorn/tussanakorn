@@ -33,10 +33,24 @@ x Computer Engineering department, Faculty of Engineering, KMUTT
  📛 **Badges:**
  
 <div>
-<img align="center" height="80" width="80" alt="" src="https://github.com/tussanakorn/tussanakorn/blob/main/images/azure-ai-fundamentals.png" />
-<img align="center" height="80" width="80" alt="" src="https://github.com/tussanakorn/tussanakorn/blob/main/images/AWS_ACF.png" />
-</div>
-<br>
+<a href="https://www.credly.com/badges/11011b60-64c5-4e6b-97d7-4b5567d75102/" target="_blank" rel="noreferrer">
+    <img
+      src="https://github.com/tussanakorn/tussanakorn/blob/main/images/azure-ai-fundamentals.png"
+      alt="azure"
+      width="80"
+      height="80"
+    />
+ </a>
+ <a href="https://www.credly.com/badges/2c0ae9a3-8842-4134-8962-96e359c660f1/" target="_blank" rel="noreferrer">
+    <img
+      src="https://github.com/tussanakorn/tussanakorn/blob/main/images/AWS_ACF.png"
+      alt="azure"
+      width="80"
+      height="80"
+    />
+ </a>
+ </div>
+ <br>
  
 ⚡ **What I'm interested in:** 
 
