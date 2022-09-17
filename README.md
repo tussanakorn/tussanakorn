@@ -41,6 +41,14 @@ x Computer Engineering department, Faculty of Engineering, KMUTT
       height="80"
     />
  </a>
+  <a href="https://www.credly.com/badges/004f9e6c-8e7f-428b-beb6-45e0ec228606/public_url" target="_blank" rel="noreferrer">
+    <img
+      src="https://github.com/tussanakorn/tussanakorn/blob/main/images/AWS_ACA.png"
+      alt="azure"
+      width="80"
+      height="80"
+    />
+ </a>
  <a href="https://www.credly.com/badges/2c0ae9a3-8842-4134-8962-96e359c660f1/" target="_blank" rel="noreferrer">
     <img
       src="https://github.com/tussanakorn/tussanakorn/blob/main/images/AWS_ACF.png"
@@ -51,6 +59,8 @@ x Computer Engineering department, Faculty of Engineering, KMUTT
  </a>
  </div>
  <br>
+ 
+ <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="004f9e6c-8e7f-428b-beb6-45e0ec228606" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
  
 ⚡ **What I'm interested in:** 
 
