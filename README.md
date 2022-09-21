@@ -60,8 +60,6 @@ x Computer Engineering department, Faculty of Engineering, KMUTT
  </div>
  <br>
  
- <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="004f9e6c-8e7f-428b-beb6-45e0ec228606" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
- 
 ⚡ **What I'm interested in:** 
 
 - ⚙ `Data Engineer`
