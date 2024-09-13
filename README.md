@@ -60,12 +60,9 @@ print("Hello world!")
  
 ⚡ **What I'm interested in:** 
 
-- ⚙ `Data Engineer`
+- ⚙ `DevOps & Data Engineer`
 - 💻 `Machine Learning`
 - ☁️ `Cloud Computing`
-- 🌎 `Geographic Information System `
-- 🤖 `Chatbot`
-- 🏥 `HealthTech`
 
 <h3 align="left">🌱 Languages and Tools:</h3>
 <p align="left">
