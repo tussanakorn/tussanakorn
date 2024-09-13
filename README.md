@@ -23,9 +23,10 @@ print("Hello world!")
 
 👨‍💻 **Work and Experiences**
 
-- Oct 2021 - March 2023, Data engineer part-time at [relearning.tech](https://github.com/thainhf) in Bangkok, Thailand.
+- Jun 2023 - Jul 2024, Data & Cloud engineer at [Big Data Institute: BDI](https://bdi.or.th/)
+- Oct 2021 - March 2023, Data engineer part-time at [relearning.tech](https://github.com/thainhf)
 - Jun 2022 - Jul 2022, Remote Internship (Health data scientist) at [Kanazawa University](http://mathphys.w3.kanazawa-u.ac.jp/e/index.html) 
-- Oct 2020 - Aug 2021, Data scientist intern at [Botnoi](https://botnoigroup.com/) in Bangkok, Thailand.
+- Oct 2020 - Aug 2021, Data scientist intern at [Botnoi](https://botnoigroup.com/)
 
 
  📛 **Badges:**
